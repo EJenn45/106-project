@@ -1,0 +1,62 @@
+body {
+  font-family: 'Playfair Dislay', serif;
+  color: black;
+}
+
+/***** HEADER *****/
+
+header {
+  color: #5F9EA0;
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  color: #5F9EA0;
+  font-size: 30px;
+  text-align: center;
+  margin: 0 20px;
+}
+
+h1 span {
+  color: lightcoral;
+  font-family: 'Satisfy', cursive;
+  font-size: 40px;
+}
+
+h4 {
+  color: lightcoral;
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+}
+
+  h4 span {
+    color: lightcoral;
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;
+    font-weight: 400;
+  }
+
+  .jennberr-advice {
+    width: 1200px;
+    margin: 0, auto;
+  }
+
+  .advice {
+    padding: 0 10px;
+  }
+
+  .advice p {
+    padding: 0 30px;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: justify;
+    margin: 0 0 18px 0;
+  }
+
+  footer {
+    color: #5F9EA0;
+    text-align: center;
+    padding: 10px 0;
+  }
